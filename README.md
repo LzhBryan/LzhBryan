@@ -12,6 +12,8 @@
 - 📫 How to reach me -> bryan.lzh619@gmail.com
 - ✨ Developer by Day, Gamer by Night
 
+</br>
+
 # ⚡ Technologies
 ### Languages
 <p>
@@ -55,8 +57,8 @@
 # 📊 GitHub Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=LzhBryan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true"" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LzhBryan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true"" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LzhBryan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LzhBryan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </a>
