@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi%20👋%20I'm%20Bryan%20Ling&animation=twinkling&type=waving&color=timeGradient&theme=tokoyonight&height=200"/>
 </h1>
-<p align="center">A recent Computer Science with AI graduate with a keen interest in Web, Desktop, Mobile App Development and Machine Learning. I've always had a passion for working on meaningful projects that serve great purposes.</p>
+<p align="center">A recent Computer Science with AI graduate with a keen interest in Web, Desktop, Mobile App Development and Machine Learning. I love to work in TypeScript, React, Node JS and Java. Eager to apply my skills to innovative projects and collaborate with like-minded professionals. Let's connect and explore opportunities to drive technological advancements together.</p>
 <img align="right" alt="Coding" width="400" src="coding.gif" />
 
 <br/>
